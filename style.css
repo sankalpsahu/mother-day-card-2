@@ -1,0 +1,17 @@
+h1{
+   color: #8e44ad;
+}
+
+body{
+    font-family: 'Arizonia';
+    background-size: cover;
+    font-weight: bold;
+}
+h3{
+    color:#eb2f06;
+}
+img{
+    height: 350px;
+    width: 250px;
+    border-radius: 50px;
+}
